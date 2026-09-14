@@ -51,3 +51,6 @@ $RECYCLE.BIN/
 # Archivos ocultos de macOS (en caso de abrir o revisar carpetas desde Mac)
 .DS_Store
 ._*
+
+# Archivos extras creados por mi
+Notas.txt
