@@ -1,0 +1,53 @@
+# ==========================================
+# SolidWorks Temporary & Lock Files
+# ==========================================
+# Archivos temporales de bloqueo creados por SolidWorks al abrir piezas/ensamblajes (~$...)
+~$*.sldprt
+~$*.sldasm
+~$*.slddrw
+~$*.prt
+~$*.asm
+~$*.drw
+
+# Archivos de copia de seguridad (Backup) y autoguardado
+*.swb
+*.bak
+*~
+
+# Archivos de registro de operaciones y diagnósticos de SolidWorks
+*.log
+*.err
+*.swp
+*.swp.*
+
+# ==========================================
+# SolidWorks Simulation & FEA Results
+# ==========================================
+# Archivos pesados de malla y resultados de simulación (estudios de esfuerzos/Cfd)
+*.cgv
+*.cwa
+*.cwmp
+*.cwtn
+*.dat
+*.dw2
+*.msh
+*.opt
+*.out
+*.qsp
+*.rst
+*.scw
+*.smp
+*.sol
+*.wmp
+
+# ==========================================
+# OS & System Generated Files
+# ==========================================
+# Archivos basura del sistema operativo Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Archivos ocultos de macOS (en caso de abrir o revisar carpetas desde Mac)
+.DS_Store
+._*
