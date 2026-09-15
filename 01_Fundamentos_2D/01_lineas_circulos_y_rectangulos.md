@@ -62,8 +62,8 @@ Se traza especificando una esquina inicial y la esquina opuesta. Requiere acotac
 1. **Aprovecha el Origen:** Siempre que sea posible, vincula el primer punto clave de tu croquis (el centro de un rectángulo o círculo base) directamente al Origen del sistema.  
 2. **Usa Geometría de Referencia:** Apóyate en líneas constructivas para establecer ejes de simetría antes de aplicar herramientas de simetría (Mirror Entities).
 3. **Controla el color de las líneas:**
-  1.*🔵 Azul:* Geometría incompleta o con grados de libertad libres.
-  2.*⬛ Negro: *Geometría completamente acotada y restringida (Fully Defined).
+  1. 🔵 *Azul:* Geometría incompleta o con grados de libertad libres.
+  2. ⬛ *Negro:* Geometría completamente acotada y restringida (Fully Defined).
 
 ---
 
