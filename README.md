@@ -1,6 +1,6 @@
 # SolidWorks Design and Tutorials 📐 CAD & Design Lab 🛠️
 
-<img src="/docs/01_Imagenes/icon_SW_Rep.png" align="left" width="100">
+<img src="/docs/02_Imagenes/icon_SW_Rep.png" align="left" width="100">
 
 Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica, documentación y modelado 3D con **SolidWorks**. En este espacio voy consolidando conceptos teóricos, técnicas de croquizado, estrategias de diseño paramétrico, modelado de piezas, ensamblajes complejos, simulación y generación de planos de manufactura.
 
