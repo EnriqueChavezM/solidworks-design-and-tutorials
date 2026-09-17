@@ -114,7 +114,7 @@ Vamos a modelar una placa rectangular de **100 mm x 60 mm** con un agujero pasan
 
 ### Captura / Evidencia
 
-<img src="/01_Fundamentos_2D/Practicas/Practica01.png" width="500">
+<img src="/06_retos_y_proyectos/01_Practicas/Practica01.png" width="500">
 
 ---
 
