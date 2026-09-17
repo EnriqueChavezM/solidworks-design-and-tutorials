@@ -57,3 +57,7 @@ Vamos a modelar una placa rectangular de **100 mm x 60 mm** con un agujero pasan
 * **Completamente Defino:** Nunca dejes un croquis en azul (subdefinido) para piezas formales; utiliza cotas o relaciones geométricas (horizontal, vertical, coincidente) hasta que todo quede en negro.
 
 ---
+
+**[Regreso Documento](/01_Fundamentos_2D/01_lineas_circulos_y_rectangulos.md)**
+
+---

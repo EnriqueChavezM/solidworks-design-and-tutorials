@@ -12,6 +12,22 @@ En esta sección se documentan las herramientas geométricas fundamentales de So
 
 ---
 
+## Tabla de Contenido
+
+1. [Entidades de Línea (Line)](#-1-entidades-de-línea-line)
+   1. [Línea Constructiva (Centerline)](#-línea-constructiva-centerline)
+   2. [Línea Normal (Sólida)](#-línea-normal-sólida)
+2. [Círculos y Arcos](#-2-círculos-y-arcos)
+   1. [Círculo por Centro (Center Circle)](#-círculo-por-centro-center-circle)
+   2. [Círculo Perimetral (Perimeter Circle)](#-círculo-perimetral-perimeter-circle)
+3. [Tipos de Rectángulos](#-3-tipos-de-rectángulos)
+   1. [Rectángulo de Centro (Center Rectangle)](#-rectángulo-de-centro-center-rectangle)
+   2. [Rectángulo de Esquina (Corner Rectangle)](#-rectángulo-de-esquina-corner-rectangle)
+4. [Buenas Prácticas en el Croquis](#️-4-buenas-prácticas-en-el-croquis)
+5. [Archivos de Práctica Relacionados](#-5-archivos-de-práctica-relacionados)
+
+---
+
 ## 🧭 1. Entidades de Línea (Line)
 
 La línea es la entidad base para construir contornos abiertos o cerrados. En SolidWorks se clasifica principalmente en:
@@ -67,9 +83,14 @@ Se traza especificando una esquina inicial y la esquina opuesta. Requiere acotac
 
 ---
 
+## 📄 5. Archivos de Práctica Relacionados
 
-📄 Archivos de Práctica Relacionados
-
-[Practica 1](/01_Fundamentos_2D/Practicas/01_Practica_lineas_circulos_rectangulos)
+[Practica 1](/01_Fundamentos_2D/Practicas/Practica01.md)
 
 ---
+
+[Inicio](#01-líneas-círculos-y-rectángulos-en-croquis-)
+
+---
+
+[Tabla de contenido principal](/Tabla_Contenido.md)
