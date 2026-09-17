@@ -8,7 +8,7 @@
 
 1. **Geometria Básica**
     1. [Lineas, Circulos y Rectangulos](/01_Fundamentos_2D/01_lineas_circulos_y_rectangulos.md)
-    2. [Poligonos y ranuras]
+    2. [Poligonos y ranuras](/01_Fundamentos_2D/02_Poligonos_y_ranuras.md)
     3. [Arcos y  Empalmes]
 2. **Relaciones y Cotas**
 3. **Operaciones de Croquis**
