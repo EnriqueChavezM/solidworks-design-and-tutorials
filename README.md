@@ -26,7 +26,15 @@ Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica, docum
 │   ├── 01_Geometria_Básica/
 │   ├── 02_Relaciones_y_Cotas/
 │   └── 03_Operaciones_de_Croquis/
-
+│
+├── 06_retos_y_proyectos/        # Diseños mecánicos integrales, retos prácticos y modelos reales
+│   ├── 01_Practicas/
+│   └── 02_SOLIDWORKS de Cero a Experto/
+│       └── 01_Modulo_Basico
+│
+└── docs/                        # Apuntes teóricos, atajos de teclado, hojas de referencia y recursos
+    ├── 01_Cheatsheets_y_Notas/
+    └── 02_Imagenes/
 ```
 
 ---
