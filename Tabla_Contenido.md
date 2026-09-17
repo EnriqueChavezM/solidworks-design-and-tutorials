@@ -7,9 +7,9 @@
 ## 1. Fundamentos 2D
 
 1. **Geometria Básica**
-    1. [Lineas, Circulos y Rectangulos](/01_Fundamentos_2D/01_lineas_circulos_y_rectangulos.md)
-    2. [Poligonos y ranuras](/01_Fundamentos_2D/02_Poligonos_y_ranuras.md)
-    3. [Arcos, Redondeos y Chaflanes](/01_Fundamentos_2D/03_Arcos_Redondeo_Chaflanes.md)
+    1. [Lineas, Circulos y Rectangulos](/01_Fundamentos_2D/01_Geometria_Básica/01_lineas_circulos_y_rectangulos.md)
+    2. [Poligonos y ranuras](/01_Fundamentos_2D/01_Geometria_Básica/02_Poligonos_y_ranuras.md)
+    3. [Arcos, Redondeos y Chaflanes](/01_Fundamentos_2D/01_Geometria_Básica/03_Arcos_Redondeo_Chaflanes.md)
 2. **Relaciones y Cotas**
 3. **Operaciones de Croquis**
 
