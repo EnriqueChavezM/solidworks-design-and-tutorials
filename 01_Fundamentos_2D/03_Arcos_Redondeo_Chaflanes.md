@@ -113,7 +113,7 @@ Vamos a modelar una placa de soporte de **20 mm x 40 mm** que tendrá un extremo
 
 ---
 
-[Inicio](#03-arcos-empalmes-y-chaflanes-en-croquis-)
+[Inicio](#03-arcos-redondeo-y-chaflanes-en-croquis-)
 
 ---
 
