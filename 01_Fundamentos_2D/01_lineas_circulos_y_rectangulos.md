@@ -67,6 +67,9 @@ Se traza especificando una esquina inicial y la esquina opuesta. Requiere acotac
 
 ---
 
+
 📄 Archivos de Práctica Relacionados
+
+[Practica 1](/01_Fundamentos_2D/Practicas/01_Practica_lineas_circulos_rectangulos)
 
 ---
