@@ -19,7 +19,7 @@
 
 1. [Practicas](/06_retos_y_proyectos/01_Practicas/)
 2. **SOLIDWORKS de Cero a Experto**
-   1. [Modulo Basico](/06_retos_y_proyectos/02_SOLIDWORKS%20de%20Cero%20a%20Experto/01_Modulo_Basico/)
+   1. [Modulo Basico](/06_retos_y_proyectos/02_SOLIDWORKS_de_Cero_a_Experto/01_Modulo_Basico/)
 
 ---
 
