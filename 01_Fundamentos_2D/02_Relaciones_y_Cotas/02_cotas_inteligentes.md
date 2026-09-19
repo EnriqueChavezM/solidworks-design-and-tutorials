@@ -93,7 +93,7 @@ Vamos a modelar una placa de montaje rectangular que requiere múltiples tipos d
 
 ---
 
-## 3. Captura / Evidencia
+## Captura / Evidencia
 
 <img src="/06_retos_y_proyectos/01_Practicas/Practica05.png" width="500">
 
