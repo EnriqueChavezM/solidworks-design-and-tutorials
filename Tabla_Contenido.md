@@ -11,6 +11,9 @@
     2. [Poligonos y ranuras](/01_Fundamentos_2D/01_Geometria_Básica/02_Poligonos_y_ranuras.md)
     3. [Arcos, Redondeos y Chaflanes](/01_Fundamentos_2D/01_Geometria_Básica/03_Arcos_Redondeo_Chaflanes.md)
 2. **Relaciones y Cotas**
+    1. [Relaciones Geometricas](/01_Fundamentos_2D/02_Relaciones_y_Cotas/01_relaciones_geometricas.md)
+    2. [Cotas Inteligentes](/01_Fundamentos_2D/02_Relaciones_y_Cotas/02_cotas_inteligentes.md)
+    3. [Intencion de Diseno](/01_Fundamentos_2D/02_Relaciones_y_Cotas/03_Intencion%20_de%20_Diseno.md)
 3. **Operaciones de Croquis**
 
 ---
