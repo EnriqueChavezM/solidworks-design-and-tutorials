@@ -15,6 +15,9 @@
     2. [Cotas Inteligentes](/01_Fundamentos_2D/02_Relaciones_y_Cotas/02_cotas_inteligentes.md)
     3. [Intencion de Diseno](/01_Fundamentos_2D/02_Relaciones_y_Cotas/03_Intencion%20_de%20_Diseno.md)
 3. **Operaciones de Croquis**
+    1. [Equidistancia y Convertir Entidades]
+    2. [Recortar y Extender Entidades]
+    3. [Matrices y Simetria de Croquis]
 
 ---
 
