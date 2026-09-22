@@ -6,18 +6,18 @@
 
 ## 1. Fundamentos 2D
 
-1. **Geometria Básica**
-    1. [Lineas, Circulos y Rectangulos](/01_Fundamentos_2D/01_Geometria_Básica/01_lineas_circulos_y_rectangulos.md)
-    2. [Poligonos y ranuras](/01_Fundamentos_2D/01_Geometria_Básica/02_Poligonos_y_ranuras.md)
+1. **Geometría Básica**
+    1. [Lineas, Círculos y Rectángulos](/01_Fundamentos_2D/01_Geometria_Básica/01_lineas_circulos_y_rectangulos.md)
+    2. [Polígonos y Ranuras](/01_Fundamentos_2D/01_Geometria_Básica/02_Poligonos_y_ranuras.md)
     3. [Arcos, Redondeos y Chaflanes](/01_Fundamentos_2D/01_Geometria_Básica/03_Arcos_Redondeo_Chaflanes.md)
 2. **Relaciones y Cotas**
-    1. [Relaciones Geometricas](/01_Fundamentos_2D/02_Relaciones_y_Cotas/01_relaciones_geometricas.md)
+    1. [Relaciones Geométricas](/01_Fundamentos_2D/02_Relaciones_y_Cotas/01_relaciones_geometricas.md)
     2. [Cotas Inteligentes](/01_Fundamentos_2D/02_Relaciones_y_Cotas/02_cotas_inteligentes.md)
-    3. [Intencion de Diseno](/01_Fundamentos_2D/02_Relaciones_y_Cotas/03_Intencion%20_de%20_Diseno.md)
+    3. [Intención de Diseñó](/01_Fundamentos_2D/02_Relaciones_y_Cotas/03_Intencion%20_de%20_Diseno.md)
 3. **Operaciones de Croquis**
-    1. [Equidistancia y Convertir Entidades]
-    2. [Recortar y Extender Entidades]
-    3. [Matrices y Simetria de Croquis]
+    1. [Equidistancia y Convertir Entidades](/01_Fundamentos_2D/03_Operaciones_de_Croquis/01_equidistancia_y_convertir_entidades.md)
+    2. [Recortar y Extender Entidades](/01_Fundamentos_2D/03_Operaciones_de_Croquis/02_recortar_y_extender_entidades.md)
+    3. [Matrices y Simetría de Croquis](/01_Fundamentos_2D/03_Operaciones_de_Croquis/03_matrices_y_simetria_de_croquis.md)
 
 ---
 
