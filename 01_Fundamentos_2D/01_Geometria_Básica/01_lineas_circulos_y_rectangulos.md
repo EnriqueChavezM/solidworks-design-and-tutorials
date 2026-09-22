@@ -14,17 +14,22 @@ En esta sección se documentan las herramientas geométricas fundamentales de So
 
 ## Tabla de Contenido
 
-1. [Entidades de Línea (Line)](#1-entidades-de-línea-line)
-   1. [Línea Constructiva (Centerline)](#línea-constructiva-centerline)
-   2. [Línea Normal (Sólida)](#línea-normal-sólida)
-2. [Círculos y Arcos](#2-círculos-y-arcos)
-   1. [Círculo por Centro (Center Circle)](#círculo-por-centro-center-circle)
-   2. [Círculo Perimetral (Perimeter Circle)](#círculo-perimetral-perimeter-circle)
-3. [Tipos de Rectángulos](#3-tipos-de-rectángulos)
-   1. [Rectángulo de Centro (Center Rectangle)](#rectángulo-de-centro-center-rectangle)
-   2. [Rectángulo de Esquina (Corner Rectangle)](#rectángulo-de-esquina-corner-rectangle)
-4. [Buenas Prácticas en el Croquis](#4-buenas-prácticas-en-el-croquis)
-5. [Ejemplo Práctico: Placa de Montaje Básica](#5-ejemplo-práctico-placa-de-montaje-básica)
+- [01. Líneas, Círculos y Rectángulos en Croquis 📐](#01-líneas-círculos-y-rectángulos-en-croquis-)
+  - [🎯 Objetivos del Módulo](#-objetivos-del-módulo)
+  - [Tabla de Contenido](#tabla-de-contenido)
+  - [1. Entidades de Línea (Line)](#1-entidades-de-línea-line)
+    - [Línea Constructiva (Centerline)](#línea-constructiva-centerline)
+    - [Línea Normal (Sólida)](#línea-normal-sólida)
+  - [2. Círculos y Arcos](#2-círculos-y-arcos)
+    - [Círculo por Centro (Center Circle)](#círculo-por-centro-center-circle)
+    - [Círculo Perimetral (Perimeter Circle)](#círculo-perimetral-perimeter-circle)
+  - [3. Tipos de Rectángulos](#3-tipos-de-rectángulos)
+    - [Rectángulo de Centro (Center Rectangle)](#rectángulo-de-centro-center-rectangle)
+    - [Rectángulo de Esquina (Corner Rectangle)](#rectángulo-de-esquina-corner-rectangle)
+  - [4. Buenas Prácticas en el Croquis](#4-buenas-prácticas-en-el-croquis)
+  - [5. Ejemplo Práctico: Placa de Montaje Básica](#5-ejemplo-práctico-placa-de-montaje-básica)
+    - [Paso a Paso](#paso-a-paso)
+    - [Captura / Evidencia](#captura--evidencia)
 
 ---
 

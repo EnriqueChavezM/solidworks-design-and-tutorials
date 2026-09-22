@@ -14,15 +14,20 @@ En esta sección se documenta el uso de herramientas de curvatura de transición
 
 ## Tabla de contenido
 
-1. [Tipos de Arcos en Croquis](#1-tipos-de-arcos-en-croquis)
-    1. [Arco Tangente (Tangent Arc)](#arco-tangente-tangent-arc)
-    2. [Arco Centro Extremos (Centerpoint Arc)](#arco-centro-extremos-centerpoint-arc)
-    3. [Arco de 3 Puntos (3-Point Arc)](#arco-de-3-puntos-3-point-arc)
-2. [Redondeo y Chaflanes de Croquis](#2-redondeo-y-chaflanes-de-croquis)
-    1. [Redondeo de croquis (Sketch Fillet)](#redondeo-de-croquis-sketch-fillet)
-    2. [Chaflán de Croquis (Sketch Chamfer)](#chaflán-de-croquis-sketch-chamfer)
-3. [Buenas Prácticas y Criterios de Diseño](#3-buenas-prácticas-y-criterios-de-diseño)
-4. [Ejemplo Práctico: Soporte con Extremo Redondeado y Chaflán](#4-ejemplo-práctico-soporte-con-extremo-redondeado-y-chaflán)
+- [03. Arcos, Redondeo y Chaflanes en Croquis 📐](#03-arcos-redondeo-y-chaflanes-en-croquis-)
+  - [🎯 Objetivos del Módulo](#-objetivos-del-módulo)
+  - [Tabla de contenido](#tabla-de-contenido)
+  - [1. Tipos de Arcos en Croquis](#1-tipos-de-arcos-en-croquis)
+    - [Arco Tangente (Tangent Arc)](#arco-tangente-tangent-arc)
+    - [Arco Centro Extremos (Centerpoint Arc)](#arco-centro-extremos-centerpoint-arc)
+    - [Arco de 3 Puntos (3-Point Arc)](#arco-de-3-puntos-3-point-arc)
+  - [2. Redondeo y Chaflanes de Croquis](#2-redondeo-y-chaflanes-de-croquis)
+    - [Redondeo de croquis (Sketch Fillet)](#redondeo-de-croquis-sketch-fillet)
+    - [Chaflán de Croquis (Sketch Chamfer)](#chaflán-de-croquis-sketch-chamfer)
+  - [3. Buenas Prácticas y Criterios de Diseño](#3-buenas-prácticas-y-criterios-de-diseño)
+  - [4. Ejemplo Práctico: Soporte con Extremo Redondeado y Chaflán](#4-ejemplo-práctico-soporte-con-extremo-redondeado-y-chaflán)
+    - [Paso a Paso](#paso-a-paso)
+    - [Captura / Evidencia](#captura--evidencia)
 
 ---
 

@@ -14,13 +14,18 @@ En esta sección se documenta el uso de la herramienta de **Cota Inteligente** (
 
 ## Tabla de contenido
 
-1. [Tipos de Acotación con Cota Inteligente](#1-tipos-de-acotación-con-cota-inteligente)
-    1. [Cotas Lineales](#1-cotas-lineales)
-    2. [Cotas Radiales y Diametrales](#2-cotas-radiales-y-diametrales)
-    3. [Cotas Angulares](#3-cotas-angulares)
-2. [Modificación y Propiedades de las Cotas](#2-modificación-y-propiedades-de-las-cotas)
-3. [Buenas Prácticas de Acotación en CAD](#3-buenas-prácticas-de-acotación-en-cad)
-4. [Ejemplo Práctico](#4-ejemplo-práctico-placa-ranurada-con-acotación-funcional)
+- [02. Cotas Inteligentes en SolidWorks 📐](#02-cotas-inteligentes-en-solidworks-)
+  - [🎯 Objetivos del Módulo](#-objetivos-del-módulo)
+  - [Tabla de contenido](#tabla-de-contenido)
+  - [1. Tipos de Acotación con Cota Inteligente](#1-tipos-de-acotación-con-cota-inteligente)
+    - [1. Cotas Lineales](#1-cotas-lineales)
+    - [2. Cotas Radiales y Diametrales](#2-cotas-radiales-y-diametrales)
+    - [3. Cotas Angulares](#3-cotas-angulares)
+  - [2. Modificación y Propiedades de las Cotas](#2-modificación-y-propiedades-de-las-cotas)
+  - [3. Buenas Prácticas de Acotación en CAD](#3-buenas-prácticas-de-acotación-en-cad)
+  - [4. Ejemplo Práctico: Placa Ranurada con Acotación Funcional](#4-ejemplo-práctico-placa-ranurada-con-acotación-funcional)
+    - [Paso a Paso](#paso-a-paso)
+  - [Captura / Evidencia](#captura--evidencia)
 
 ---
 
@@ -104,3 +109,6 @@ Vamos a modelar una placa de montaje rectangular que requiere múltiples tipos d
 ---
 
 [Tabla de contenido principal](/Tabla_Contenido.md)
+
+
+[def]: #1-tipos-de-acotación-con-cota-inteligente

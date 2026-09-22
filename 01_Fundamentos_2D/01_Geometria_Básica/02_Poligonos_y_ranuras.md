@@ -14,16 +14,21 @@ En esta sección se documenta el uso de herramientas geométricas avanzadas del 
 
 ## Tabla de Contenido
 
-1. [Polígonos Regulares (Polygon)](#1-polígonos-regulares-polygon)
-    1. [Tipos de Construcción de Polígonos](#tipos-de-construcción-de-polígonos)
-    2. [Parámetros Clave](#parámetros-clave)
-2. [Ranuras (Slots)](#2-ranuras-slots)
-    1. [Ranura Recta de Centro a Centro (Straight Slot)](#1-ranura-recta-de-centro-a-centro-straight-slot)
-    2. [Ranura Recta por Puntos (Point-to-Point Slot)](#2-ranura-recta-por-puntos-point-to-point-slot)
-    3. [Ranura en Arco de Centro (Centerpoint Arc Slot)](#3-ranura-en-arco-de-centro-centerpoint-arc-slot)
-    4. [Ranura en Arco de 3 Puntos (3-Point Arc Slot)](#4-ranura-en-arco-de-3-puntos-3-point-arc-slot)
-3. [Buenas Prácticas al Trabajar con Polígonos y Ranuras](#3-buenas-prácticas-al-trabajar-con-polígonos-y-ranuras)
-4. [Ejemplo Práctico: Placa con Ranura de Ajuste y Alojamiento Hexagonal](#4-ejemplo-práctico-placa-con-ranura-de-ajuste-y-alojamiento-hexagonal)
+- [02. Polígonos y Ranuras en Croquis 📐](#02-polígonos-y-ranuras-en-croquis-)
+  - [🎯 Objetivos del Módulo](#-objetivos-del-módulo)
+  - [Tabla de Contenido](#tabla-de-contenido)
+  - [1. Polígonos Regulares (Polygon)](#1-polígonos-regulares-polygon)
+    - [Tipos de Construcción de Polígonos](#tipos-de-construcción-de-polígonos)
+    - [Parámetros Clave](#parámetros-clave)
+  - [2. Ranuras (Slots)](#2-ranuras-slots)
+    - [1. Ranura Recta de Centro a Centro (Straight Slot)](#1-ranura-recta-de-centro-a-centro-straight-slot)
+    - [2. Ranura Recta por Puntos (Point-to-Point Slot)](#2-ranura-recta-por-puntos-point-to-point-slot)
+    - [3. Ranura en Arco de Centro (Centerpoint Arc Slot)](#3-ranura-en-arco-de-centro-centerpoint-arc-slot)
+    - [4. Ranura en Arco de 3 Puntos (3-Point Arc Slot)](#4-ranura-en-arco-de-3-puntos-3-point-arc-slot)
+  - [3. Buenas Prácticas al Trabajar con Polígonos y Ranuras](#3-buenas-prácticas-al-trabajar-con-polígonos-y-ranuras)
+  - [4. Ejemplo Práctico: Placa con Ranura de Ajuste y Alojamiento Hexagonal](#4-ejemplo-práctico-placa-con-ranura-de-ajuste-y-alojamiento-hexagonal)
+    - [Paso a Paso](#paso-a-paso)
+    - [Captura / Evidencia](#captura--evidencia)
 
 ---
 

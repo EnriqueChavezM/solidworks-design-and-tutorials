@@ -14,13 +14,18 @@ En esta sección se documenta el uso y la aplicación de las **relaciones geomé
 
 ## Tabla de contenido
 
-1. [Estados de Definición del Croquis](#1-estados-de-definición-del-croquis)
-2. [Relaciones Geométricas Fundamentales](#2-relaciones-geométricas-fundamentales)
-    1. [Relaciones de Orientación y Posición](#relaciones-de-orientación-y-posición)
-    2. [Relaciones entre Múltiples Entidades](#relaciones-entre-múltiples-entidades)
-3. [Relaciones Automáticas vs. Manuales](#3-relaciones-automáticas-vs-manuales)
-4. [Buenas Prácticas de Restricción Paramétrica](#4-buenas-prácticas-de-restricción-paramétrica)
-5. [Ejemplo Práctico](#5-ejemplo-práctico-palanca-de-acoplamiento-simétrica)
+- [01. Relaciones Geométricas en Croquis 📐](#01-relaciones-geométricas-en-croquis-)
+  - [🎯 Objetivos del Módulo](#-objetivos-del-módulo)
+  - [Tabla de contenido](#tabla-de-contenido)
+  - [1. Estados de Definición del Croquis](#1-estados-de-definición-del-croquis)
+  - [2. Relaciones Geométricas Fundamentales](#2-relaciones-geométricas-fundamentales)
+    - [Relaciones de Orientación y Posición](#relaciones-de-orientación-y-posición)
+    - [Relaciones entre Múltiples Entidades](#relaciones-entre-múltiples-entidades)
+  - [3. Relaciones Automáticas vs. Manuales](#3-relaciones-automáticas-vs-manuales)
+  - [4. Buenas Prácticas de Restricción Paramétrica](#4-buenas-prácticas-de-restricción-paramétrica)
+  - [5. Ejemplo Práctico: Palanca de Acoplamiento Simétrica](#5-ejemplo-práctico-palanca-de-acoplamiento-simétrica)
+    - [Paso a Paso](#paso-a-paso)
+    - [Captura / Evidencia](#captura--evidencia)
 
 ---
 
@@ -113,3 +118,6 @@ Vamos a modelar una pieza tipo palanca con dos perforaciones circulares en sus e
 ---
 
 [Tabla de contenido principal](/Tabla_Contenido.md)
+
+
+[def]: #1-estados-de-definición-del-croquis

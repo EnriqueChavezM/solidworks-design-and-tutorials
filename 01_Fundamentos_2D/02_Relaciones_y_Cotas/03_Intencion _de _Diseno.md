@@ -14,13 +14,18 @@ En esta sección se documenta el concepto de **Intención de Diseño** (*Design 
 
 ## Tabla de contenido
 
-1. [¿Qué es la Intención de Diseño?](#1-qué-es-la-intención-de-diseño)
-2. [Estrategias Clave para una Buena Intención de Diseño](#2-estrategias-clave-para-una-buena-intención-de-diseño)
-    1. [Anclar siempre el modelo al Origen](#1-anclar-siempre-el-modelo-al-origen)
-    2. [Priorizar Relaciones sobre Cotas Excesivas](#2-priorizar-relaciones-sobre-cotas-excesivas)
-    3. [Diseñar de lo General a lo Particular](#3-diseñar-de-lo-general-a-lo-particular)
-3. [Errores Comunes que Rompen la Intención de Diseño](#3-errores-comunes-que-rompen-la-intención-de-diseño)
-4. [Ejemplo Práctico](#4-ejemplo-práctico-placa-de-montaje-paramétrica)
+- [03. Intención de Diseño en Croquis 📐](#03-intención-de-diseño-en-croquis-)
+  - [🎯 Objetivos del Módulo](#-objetivos-del-módulo)
+  - [Tabla de contenido](#tabla-de-contenido)
+  - [1. ¿Qué es la Intención de Diseño?](#1-qué-es-la-intención-de-diseño)
+  - [2. Estrategias Clave para una Buena Intención de Diseño](#2-estrategias-clave-para-una-buena-intención-de-diseño)
+    - [1. Anclar siempre el modelo al Origen](#1-anclar-siempre-el-modelo-al-origen)
+    - [2. Priorizar Relaciones sobre Cotas Excesivas](#2-priorizar-relaciones-sobre-cotas-excesivas)
+    - [3. Diseñar de lo General a lo Particular](#3-diseñar-de-lo-general-a-lo-particular)
+  - [3. Errores Comunes que Rompen la Intención de Diseño](#3-errores-comunes-que-rompen-la-intención-de-diseño)
+  - [4. Ejemplo Práctico: Placa de Montaje Paramétrica](#4-ejemplo-práctico-placa-de-montaje-paramétrica)
+    - [Paso a Paso para Aplicar Intención de Diseño:](#paso-a-paso-para-aplicar-intención-de-diseño)
+  - [Captura / Evidencia](#captura--evidencia)
 
 ---
 
@@ -93,3 +98,6 @@ Imagina que te piden diseñar un soporte que pueda fabricarse en tres tamaños d
 ---
 
 [Tabla de contenido principal](/Tabla_Contenido.md)
+
+
+[def]: #1-qué-es-la-intención-de-diseño
