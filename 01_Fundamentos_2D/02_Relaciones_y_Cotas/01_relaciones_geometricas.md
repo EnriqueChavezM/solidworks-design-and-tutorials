@@ -76,7 +76,7 @@ Las relaciones se aplican seleccionando dos o más entidades mediante la tecla `
 1. **Relaciones antes que Cotas:** Aplica siempre primero las relaciones geométricas de posición e igualdad antes de colocar cotas numéricas. Esto reduce drásticamente la cantidad de dimensiones necesarias.
 2. **Usa el Origen `(0,0)`:** Al menos un punto clave del croquis base debe estar vinculado directamente al Origen para anclar el modelo en el espacio 3D.
 3. **Uso de Líneas Constructivas:** No escatimes en usar líneas de centro (**constructivas**); son tus mejores aliadas para aplicar simetrías y ubicar componentes de referencia sin que afecten la extrusión final de la pieza.
-4. **Aprovecha la relación de Igualdad:** En lugar de acotar 4 barrenos idénticos con $12\text{ mm}$, acota solo uno y aplícale la relación de **Igualdad** a los otros tres. Si la cota cambia en el futuro, todos se actualizarán automáticamente.
+4. **Aprovecha la relación de Igualdad:** En lugar de acotar 4 barrenos idénticos con $12\text{ mm}$, acota solo uno y aplica la relación de **Igualdad** a los otros tres. Si la cota cambia en el futuro, todos se actualizarán automáticamente.
 
 ---
 
@@ -102,14 +102,15 @@ Vamos a modelar una pieza tipo palanca con dos perforaciones circulares en sus e
    - **Tangencia:** Asegúrate de que las líneas que unen los extremos formen una transición suave seleccionando la línea y el círculo correspondientes y aplicando **Tangente**.
 
 4. **Acotación Inteligente de Control:**
-   - Gracias a las relaciones aplicadas, ahora solo necesitas acotar la distancia entre centros de los círculos (por ejemplo, **100 mm**), el diametro de los circulos (por ejemplo, **50 mm**), la separacion entre barreno y el  diametro externo de los barrenos (por ejemplo, **15 mm**). El croquis mantendrá su simetría de manera automática.
+   - Gracias a las relaciones aplicadas, ahora solo necesitas acotar la distancia entre centros de los círculos (por ejemplo, **100 mm**), el diámetro de los círculos (por ejemplo, **50 mm**), la separación entre barreno y el  diámetro externo de los barrenos (por ejemplo, **15 mm**). El croquis mantendrá su simetría de manera automática.
 
 5. **Verificación:**
    - Comprueba que las líneas cambien a color **negro**, indicando que el croquis está **Completamente Definido** gracias a la combinación correcta de relaciones geométricas y pocas cotas.
 
 ### Captura / Evidencia
 
-<img src="/06_retos_y_proyectos/01_Practicas/Practica04.png" width="500">
+<!-- markdownlint-disable MD033 -->
+<img src="/06_retos_y_proyectos/01_Practicas/Practica04.png" width="500" alt="Captura de pantalla de la práctica 04">
 
 ---
 
@@ -118,6 +119,3 @@ Vamos a modelar una pieza tipo palanca con dos perforaciones circulares en sus e
 ---
 
 [Tabla de contenido principal](/Tabla_Contenido.md)
-
-
-[def]: #1-estados-de-definición-del-croquis

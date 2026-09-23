@@ -24,8 +24,8 @@ En esta sección se documenta el concepto de **Intención de Diseño** (*Design 
     - [3. Diseñar de lo General a lo Particular](#3-diseñar-de-lo-general-a-lo-particular)
   - [3. Errores Comunes que Rompen la Intención de Diseño](#3-errores-comunes-que-rompen-la-intención-de-diseño)
   - [4. Ejemplo Práctico: Placa de Montaje Paramétrica](#4-ejemplo-práctico-placa-de-montaje-paramétrica)
-    - [Paso a Paso para Aplicar Intención de Diseño:](#paso-a-paso-para-aplicar-intención-de-diseño)
-  - [Captura / Evidencia](#captura--evidencia)
+    - [Paso a Paso](#paso-a-paso)
+    - [Captura / Evidencia](#captura--evidencia)
 
 ---
 
@@ -75,7 +75,7 @@ En lugar de saturar tu croquis con cotas numéricas para alinear elementos, util
 
 Imagina que te piden diseñar un soporte que pueda fabricarse en tres tamaños diferentes (pequeño, mediano y grande) cambiando una sola cota.
 
-### Paso a Paso para Aplicar Intención de Diseño:
+### Paso a Paso
 
 1. **Anclaje al Origen:**
    - Abre un croquis en el plano **Alzado** y dibuja un rectángulo de centro **directamente sobre el origen**. Esto asegura que la pieza crezca simétricamente hacia todos los lados al modificar sus cotas.
@@ -84,12 +84,13 @@ Imagina que te piden diseñar un soporte que pueda fabricarse en tres tamaños d
    - Coloca dos agujeros en los extremos. En lugar de medir cada uno por separado desde los bordes, selecciona ambos centros y añade una relación de **Horizontalidad** respecto al origen, y una relación de **Igualdad** entre sus diámetros de **25 mm**.
 
 3. **Prueba de Esfuerzo (Cambio de Parámetros):**
-   - Cambia la cota de largo total de **100 mm** y un angulo de **125°** entre sus lineas de construccion.
+   - Cambia la cota de largo total de **100 mm** y un angulo de **125°** entre sus lineas de construcción.
    - *Resultado esperado:* Gracias a la intención de diseño basada en la simetría desde el origen, la placa se expande uniformemente de ambos lados y los agujeros conservan su posición relativa sin desalinearse.
 
-## Captura / Evidencia
+### Captura / Evidencia
 
-<img src="/06_retos_y_proyectos/01_Practicas/Practica06.png" width="500">
+<!-- markdownlint-disable MD033 -->
+<img src="/06_retos_y_proyectos/01_Practicas/Practica06.png" width="500" alt="Captura de pantalla de la práctica 06">
 
 ---
 
@@ -98,6 +99,3 @@ Imagina que te piden diseñar un soporte que pueda fabricarse en tres tamaños d
 ---
 
 [Tabla de contenido principal](/Tabla_Contenido.md)
-
-
-[def]: #1-qué-es-la-intención-de-diseño

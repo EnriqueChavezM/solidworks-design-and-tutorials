@@ -111,7 +111,8 @@ Vamos a modelar una placa de soporte de **120 mm x 50 mm** que incluye una **ran
 
 ### Captura / Evidencia
 
-<img src="/06_retos_y_proyectos/01_Practicas/Practica02.png" width="500">
+<!-- markdownlint-disable MD033 -->
+<img src="/06_retos_y_proyectos/01_Practicas/Practica02.png" width="500" alt="Captura de pantalla de la práctica 02">
 
 ---
 

@@ -100,7 +100,8 @@ Vamos a modelar una placa de montaje rectangular que requiere múltiples tipos d
 
 ## Captura / Evidencia
 
-<img src="/06_retos_y_proyectos/01_Practicas/Practica05.png" width="500">
+<!-- markdownlint-disable MD033 -->
+<img src="/06_retos_y_proyectos/01_Practicas/Practica05.png" width="500" alt="Captura de pantalla de la práctica 05">
 
 ---
 
@@ -109,6 +110,3 @@ Vamos a modelar una placa de montaje rectangular que requiere múltiples tipos d
 ---
 
 [Tabla de contenido principal](/Tabla_Contenido.md)
-
-
-[def]: #1-tipos-de-acotación-con-cota-inteligente

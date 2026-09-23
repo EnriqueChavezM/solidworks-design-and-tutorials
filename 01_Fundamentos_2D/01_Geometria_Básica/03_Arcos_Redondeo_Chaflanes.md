@@ -114,7 +114,8 @@ Vamos a modelar una placa de soporte de **20 mm x 40 mm** que tendrá un extremo
 
 ### Captura / Evidencia
 
-<img src="/06_retos_y_proyectos/01_Practicas/Practica03.png" width="500">
+<!-- markdownlint-disable MD033 -->
+<img src="/06_retos_y_proyectos/01_Practicas/Practica03.png" width="500" alt="Captura de pantalla de la práctica 03">
 
 ---
 
