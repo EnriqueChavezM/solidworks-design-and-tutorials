@@ -12,11 +12,11 @@ En el diseño CAD paramétrico, las **Condiciones Finales** (*End Conditions*) d
   
 ---
 
-## 📌 Tabla de Contenidos
+## Tabla de Contenidos
 
 - [03. Condiciones Finales en Operaciones 3D 🎯](#03-condiciones-finales-en-operaciones-3d-)
   - [🎯 Objetivos del Módulo](#-objetivos-del-módulo)
-  - [📌 Tabla de Contenidos](#-tabla-de-contenidos)
+  - [Tabla de Contenidos](#tabla-de-contenidos)
   - [1. Clasificación de las Condiciones Finales](#1-clasificación-de-las-condiciones-finales)
   - [2. Descripción Detallada por Tipo](#2-descripción-detallada-por-tipo)
     - [Hasta la profundidad especificada (*Blind*)](#hasta-la-profundidad-especificada-blind)
