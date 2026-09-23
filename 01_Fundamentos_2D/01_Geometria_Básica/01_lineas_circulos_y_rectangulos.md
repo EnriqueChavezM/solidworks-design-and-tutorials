@@ -110,9 +110,9 @@ Vamos a modelar una placa rectangular de **100 mm x 60 mm** con un agujero pasan
 
 4. **Acotación Inteligente (Smart Dimension):**
    - Selecciona **Cota inteligente** en la barra de herramientas superior.
-   - Haz clic en la línea horizontal superior del rectángulo y asígnale una medida de **100 mm**.
-   - Haz clic en la línea vertical lateral y asígnale **60 mm**.
-   - Haz clic en el borde del círculo y asígnale un diámetro de **20 mm**.
+   - Haz clic en la línea horizontal superior del rectángulo y asignarle una medida de **100 mm**.
+   - Haz clic en la línea vertical lateral y asignarle **60 mm**.
+   - Haz clic en el borde del círculo y asignarle un diámetro de **20 mm**.
 
 5. **Verificación:**
    - Al terminar, todas las líneas del croquis deben cambiar de color **azul a negro**, lo que indica que el croquis está **Completamente Definido (Fully Defined)**.
