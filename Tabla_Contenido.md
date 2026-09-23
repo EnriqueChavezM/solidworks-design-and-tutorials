@@ -1,4 +1,6 @@
-<img src="/docs/02_Imagenes/icon_SW_Rep.png" align="left" width="100">
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD041 -->
+<img src="/docs/02_Imágenes/icon_SW_Rep.png" align="left" width="100"alt="icon">
 
 # Tabla de contenido
 
@@ -21,11 +23,27 @@
 
 ---
 
+## 2. Modelado 3D Básico
+
+1. **Extrusion y Corte**
+    1. [Extrusion Saliente Base](/02_Modelado_3D_Basico/01_Extrusion_Corte/01_Extrusion_Saliente_Base.md)
+    2. [Corte Extruido](/02_Modelado_3D_Basico/01_Extrusion_Corte/02_corte_extruido.md)
+    3. [Condiciones Finales](/02_Modelado_3D_Basico/01_Extrusion_Corte/03_condiciones_finales.md)
+
+2. **Revolución**
+    1. [Saliente y Corte por Revolución]
+    2. [Ejes y Perfiles de Revolución]
+
+3. **Vaciado y Nervaduras**
+    1. [Redondeos y Chaflanes 3D]
+    2. [Vaciado y Espesores de Pared]
+    3. [Nervaduras y Ángulos de Salida]
+
 ## 6. Retos y Proyector
 
 1. [Practicas](/06_retos_y_proyectos/01_Practicas/)
 2. **SOLIDWORKS de Cero a Experto**
-   1. [Modulo Basico](/06_retos_y_proyectos/02_SOLIDWORKS_de_Cero_a_Experto/01_Modulo_Basico/)
+   1. [Modulo Básico](/06_retos_y_proyectos/02_SOLIDWORKS_de_Cero_a_Experto/01_Modulo_Basico/)
 
 ---
 

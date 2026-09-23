@@ -1,10 +1,11 @@
 # SolidWorks Design and Tutorials 📐 CAD & Design Lab 🛠️
-
-<img src="/docs/02_Imágenes/icon_SW_Rep.png" align="left" width="150">
+<!-- markdownlint-disable MD033 -->
+<img src="/docs/02_Imágenes/icon_SW_Rep.png" align="left" width="150" alt="icon">
 
 Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica, documentación y modelado 3D con **SolidWorks**. En este espacio voy consolidando conceptos teóricos, técnicas de croquizado, estrategias de diseño paramétrico, modelado de piezas, ensamblajes complejos, simulación y generación de planos de manufactura.
 
 <br clear="left" /> <!-- Limpia el flujo flotante -->
+
 ---
 
 ## 📌 Objetivos del Repositorio
@@ -26,6 +27,11 @@ Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica, docum
 │   ├── 01_Geometría_Básica/
 │   ├── 02_Relaciones_y_Cotas/
 │   └── 03_Operaciones_de_Croquis/
+│
+02_modelado_3d_básico/           # Extrusiones, revoluciones, vaciados, redondeos y chaflanes
+│   ├──  01_Extrusion_y_Corte/
+│   ├── 02_Revolución/
+│   └── 03_Vaciado_y_Nervaduras/
 │
 ├── 06_retos_y_proyectos/        # Diseños mecánicos integrales, retos prácticos y modelos reales
 │   ├── 01_Practicas/
@@ -53,3 +59,4 @@ Desarrollado con dedicación por **Enrique Chávez Márquez**.
 - 🐙 **GitHub:** [@EnriqueChavezM](https://github.com/EnriqueChavezM)
 
 - 💼 **LinkedIn:** [Enrique Chavez Marquez](https://www.linkedin.com/in/enrique-chavez-marquez-8a5a19326/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAiL37dQVSqStvMo5Ozc5Xw%3D%3D)
+  
