@@ -1,6 +1,6 @@
 # SolidWorks Design and Tutorials 📐 CAD & Design Lab 🛠️
 
-<img src="/docs/02_Imagenes/icon_SW_Rep.png" align="left" width="150">
+<img src="/docs/02_Imágenes/icon_SW_Rep.png" align="left" width="150">
 
 Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica, documentación y modelado 3D con **SolidWorks**. En este espacio voy consolidando conceptos teóricos, técnicas de croquizado, estrategias de diseño paramétrico, modelado de piezas, ensamblajes complejos, simulación y generación de planos de manufactura.
 
@@ -23,25 +23,25 @@ Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica, docum
 ```text
 .
 ├── 01_fundamentos_2d/           # Croquis 2D, cotas inteligentes, relaciones geométricas y entidades
-│   ├── 01_Geometria_Básica/
+│   ├── 01_Geometría_Básica/
 │   ├── 02_Relaciones_y_Cotas/
 │   └── 03_Operaciones_de_Croquis/
 │
 ├── 06_retos_y_proyectos/        # Diseños mecánicos integrales, retos prácticos y modelos reales
 │   ├── 01_Practicas/
 │   └── 02_SOLIDWORKS de Cero a Experto/
-│       └── 01_Modulo_Basico
+│       └── 01_Modulo_Básico
 │
 └── docs/                        # Apuntes teóricos, atajos de teclado, hojas de referencia y recursos
-    ├── 01_Cheatsheets_y_Notas/
-    └── 02_Imagenes/
+    ├── 01_Documentos_y_Notas/
+    └── 02_Imágenes/
 ```
 
 ---
 
 ## 📚 Recursos
 
-- 📖 **[Documentación y Ayuda Oficial de SolidWorks](https://help.solidworks.com/)** - *Guía de referencia directa de Dassault Systèmes*
+- 📖 **[Documentación y Ayuda Oficial de SolidWorks](https://help.solidworks.com/)** - *Guía de referencia directa de Dassault Systems*
 - 📽️ **[SOLIDWORKS de Cero a Experto. (Modulo Básico)](https://www.youtube.com/playlist?list=PLTjwBpOSqh0PIxKM0tgfPmNO5DENpupjG)** - *Alvaro Quinteros*
 
 ---
