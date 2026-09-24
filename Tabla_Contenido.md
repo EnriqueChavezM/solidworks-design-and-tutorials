@@ -1,5 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
+
 <img src="/docs/02_Imágenes/icon_SW_Rep.png" align="left" width="100"alt="icon">
 
 # Tabla de contenido
