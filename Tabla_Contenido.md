@@ -1,11 +1,4 @@
-<!-- markdownlint-disable MD033 -->
-<!-- markdownlint-disable MD041 -->
-
-<img src="/docs/02_Imágenes/icon_SW_Rep.png" align="left" width="100"alt="icon">
-
 # Tabla de contenido
-
-<br clear="left" /> <!-- Limpia el flujo flotante -->
 
 ## 1. Fundamentos 2D
 
