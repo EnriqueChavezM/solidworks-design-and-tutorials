@@ -29,7 +29,7 @@ Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica, docum
 │   └── 03_Operaciones_de_Croquis/
 │
 02_modelado_3d_básico/           # Extrusiones, revoluciones, vaciados, redondeos y chaflanes
-│   ├──  01_Extrusion_y_Corte/
+│   ├── 01_Extrusion_y_Corte/
 │   ├── 02_Revolución/
 │   └── 03_Vaciado_y_Nervaduras/
 │

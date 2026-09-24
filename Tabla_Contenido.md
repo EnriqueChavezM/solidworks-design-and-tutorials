@@ -31,8 +31,8 @@
     3. [Condiciones Finales](/02_Modelado_3D_Basico/01_Extrusion_Corte/03_condiciones_finales.md)
 
 2. **Revolución**
-    1. [Saliente y Corte por Revolución]
-    2. [Ejes y Perfiles de Revolución]
+    1. [Saliente y Corte por Revolución](/02_Modelado_3D_Basico/02_Revolucion/01_saliente_y_corte_por_revolucion.md)
+    2. [Ejes y Perfiles de Revolución](/02_Modelado_3D_Basico/02_Revolucion/02_ejes_y_perfiles_de_revolucion.md)
 
 3. **Vaciado y Nervaduras**
     1. [Redondeos y Chaflanes 3D]
