@@ -29,9 +29,9 @@
     2. [Ejes y Perfiles de Revolución](/02_Modelado_3D_Basico/02_Revolucion/02_ejes_y_perfiles_de_revolucion.md)
 
 3. **Vaciado y Nervaduras**
-    1. [Redondeos y Chaflanes 3D]
-    2. [Vaciado y Espesores de Pared]
-    3. [Nervaduras y Ángulos de Salida]
+    1. [Redondeos y Chaflanes 3D](/02_Modelado_3D_Basico/03_Vaciado_y_Nervaduras/01_redondeos_y_chaflanes_3d.md)
+    2. [Vaciado y Espesores de Pared](/02_Modelado_3D_Basico/03_Vaciado_y_Nervaduras/02_vaciado_y_espesores_de_pared.md)
+    3. [Nervaduras y Ángulos de Salida](/02_Modelado_3D_Basico/03_Vaciado_y_Nervaduras/03_nervaduras_y_angulos_de_salida.md)
 
 ## 6. Retos y Proyector
 
