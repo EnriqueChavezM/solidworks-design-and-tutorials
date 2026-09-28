@@ -33,6 +33,27 @@
     2. [Vaciado y Espesores de Pared](/02_Modelado_3D_Basico/03_Vaciado_y_Nervaduras/02_vaciado_y_espesores_de_pared.md)
     3. [Nervaduras y Ángulos de Salida](/02_Modelado_3D_Basico/03_Vaciado_y_Nervaduras/03_nervaduras_y_angulos_de_salida.md)
 
+---
+
+## 3. Operaciones Avanzadas
+
+1. **Barrido y Recubrimiento**
+   1. [Saliente y Corte por Barrido](/03_Operaciones_Avanzadas/01_Barrido_Recubrimiento/01_Saliente_Corte_por_Barrido.md)
+   2. [Curvas Guía y Helices](/03_Operaciones_Avanzadas/01_Barrido_Recubrimiento/02_Curvas_Guia_y_Helices.md)
+   3. [Recubrimiento y Secciones Transversales](/03_Operaciones_Avanzadas/01_Barrido_Recubrimiento/03_recubrimiento_y_secciones_transversales.md)
+
+2. **Chapa Metálica**
+   1. [Brida Base y Brida de Arista]
+   2. [Pliegues y Despliegue]
+   3. [Esquinas y Estampados]
+
+3. Piezas_Soldadas
+   1. [Miembros Estructurales y Perfiles]
+   2. [Recortes y Extremos de Tubo]
+   3. [Cartelas y Cordones de Soldadura]
+
+---
+
 ## 6. Retos y Proyector
 
 1. [Practicas](/06_retos_y_proyectos/01_Practicas/)

@@ -33,6 +33,11 @@ Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica, docum
 │   ├── 02_Revolución/
 │   └── 03_Vaciado_y_Nervaduras/
 │
+├── 03_operaciones_avanzadas/    # Barridos, recubrimientos, matrices, chapa metálica y soldadura
+│   ├── 01_Barrido_y_Recubrimiento/
+│   ├── 02_Chapa_Metálica/
+│   └── 03_Piezas_Soldadas/
+│
 ├── 06_retos_y_proyectos/        # Diseños mecánicos integrales, retos prácticos y modelos reales
 │   ├── 01_Practicas/
 │   └── 02_SOLIDWORKS de Cero a Experto/
