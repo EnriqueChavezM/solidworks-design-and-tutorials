@@ -67,8 +67,8 @@ Las **Curvas Guía** son líneas o arcos 2D/3D que restringen y moldean cómo se
 
 La relación de **Perforar** es la restricción geométrica indispensable al trabajar con curvas 3D y croquis 2D.
 
-* **Concepto:** Vincula un **punto** del croquis activo (ej. un vértice o punto de centro) con una **línea/curva fuera del plano** (ej. la hélice o curva guía), obligando al punto a permanecer enganchado a la curva en el lugar donde esta atraviesa el plano del croquis.
-* **Diferencia con Coincidente:** *Coincidente* proyecta el punto sobre el plano; *Perforar* clava el punto directamente en la curva 3D.
+- **Concepto:** Vincula un **punto** del croquis activo (ej. un vértice o punto de centro) con una **línea/curva fuera del plano** (ej. la hélice o curva guía), obligando al punto a permanecer enganchado a la curva en el lugar donde esta atraviesa el plano del croquis.
+- **Diferencia con Coincidente:** *Coincidente* proyecta el punto sobre el plano; *Perforar* clava el punto directamente en la curva 3D.
 
 ---
 
