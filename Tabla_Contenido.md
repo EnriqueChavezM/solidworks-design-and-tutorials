@@ -43,9 +43,9 @@
    3. [Recubrimiento y Secciones Transversales](/03_Operaciones_Avanzadas/01_Barrido_Recubrimiento/03_recubrimiento_y_secciones_transversales.md)
 
 2. **Chapa Metálica**
-   1. [Brida Base y Brida de Arista]
-   2. [Pliegues y Despliegue]
-   3. [Esquinas y Estampados]
+   1. [Brida Base y Brida de Arista](/03_Operaciones_Avanzadas/02_Chapa_Metálica/01_Brida_Base_y_Brida_de_Arista.md)
+   2. [Pliegues y Despliegue](/03_Operaciones_Avanzadas/02_Chapa_Metálica/02_Pliegues_y_Despliegue.md)
+   3. [Esquinas y Estampados](/03_Operaciones_Avanzadas/02_Chapa_Metálica/03_cartelas_y_cordones_de_soldadura.md)
 
 3. Piezas_Soldadas
    1. [Miembros Estructurales y Perfiles]
