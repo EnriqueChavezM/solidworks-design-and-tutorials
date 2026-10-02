@@ -1,5 +1,7 @@
 # Tabla de contenido
 
+---
+
 ## 1. Fundamentos 2D
 
 1. **Geometría Básica**
@@ -47,10 +49,10 @@
    2. [Pliegues y Despliegue](/03_Operaciones_Avanzadas/02_Chapa_Metálica/02_Pliegues_y_Despliegue.md)
    3. [Esquinas y Estampados](/03_Operaciones_Avanzadas/02_Chapa_Metálica/03_cartelas_y_cordones_de_soldadura.md)
 
-3. Piezas_Soldadas
-   1. [Miembros Estructurales y Perfiles]
-   2. [Recortes y Extremos de Tubo]
-   3. [Cartelas y Cordones de Soldadura]
+3. **Piezas_Soldadas
+   1. [Miembros Estructurales y Perfiles](/03_Operaciones_Avanzadas/03_Piezas_Soldadas/01_miembros_estructurales_y_perfiles.md)
+   2. [Recortes y Extremos de Tubo](/03_Operaciones_Avanzadas/03_Piezas_Soldadas/02_recortes_y_extremos_de_tubo.md)
+   3. [Cartelas y Cordones de Soldadura](/03_Operaciones_Avanzadas/03_Piezas_Soldadas/03_cartelas_y_cordones_de_soldadura.md)
 
 ---
 
