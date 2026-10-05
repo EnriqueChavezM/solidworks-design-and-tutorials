@@ -1,6 +1,6 @@
 # SolidWorks Design and Tutorials 📐 CAD & Design Lab 🛠️
 <!-- markdownlint-disable MD033 -->
-<img src="/docs/02_Imágenes/icon_SW_Rep.png" align="left" width="150" alt="icon">
+<img src="/docs/02_Imágenes/icon_SW_Rep.png" align="left" width="250" alt="icon">
 
 Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica, documentación y modelado 3D con **SolidWorks**. En este espacio voy consolidando conceptos teóricos, técnicas de croquizado, estrategias de diseño paramétrico, modelado de piezas, ensamblajes complejos, simulación y generación de planos de manufactura.
 
@@ -37,6 +37,11 @@ Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica, docum
 │   ├── 01_Barrido_y_Recubrimiento/
 │   ├── 02_Chapa_Metálica/
 │   └── 03_Piezas_Soldadas/
+│       
+├── 04_Ensamblajes/              # Mates (relaciones de posición), ensamblajes guiados y subensamblajes
+│   ├── 01_Relaciones_Estándar/
+│   ├── 02_Relaciones_Mecánicas/
+│   └── 03_Detección_de_Interferencias/
 │
 ├── 06_retos_y_proyectos/        # Diseños mecánicos integrales, retos prácticos y modelos reales
 │   ├── 01_Practicas/

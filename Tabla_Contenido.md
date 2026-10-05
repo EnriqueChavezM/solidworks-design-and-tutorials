@@ -49,10 +49,29 @@
    2. [Pliegues y Despliegue](/03_Operaciones_Avanzadas/02_Chapa_Metálica/02_Pliegues_y_Despliegue.md)
    3. [Esquinas y Estampados](/03_Operaciones_Avanzadas/02_Chapa_Metálica/03_cartelas_y_cordones_de_soldadura.md)
 
-3. **Piezas_Soldadas
+3. **Piezas_Soldadas**
    1. [Miembros Estructurales y Perfiles](/03_Operaciones_Avanzadas/03_Piezas_Soldadas/01_miembros_estructurales_y_perfiles.md)
    2. [Recortes y Extremos de Tubo](/03_Operaciones_Avanzadas/03_Piezas_Soldadas/02_recortes_y_extremos_de_tubo.md)
    3. [Cartelas y Cordones de Soldadura](/03_Operaciones_Avanzadas/03_Piezas_Soldadas/03_cartelas_y_cordones_de_soldadura.md)
+
+---
+
+## 4. Ensamblajes
+
+1. **Relaciones Estándar**
+   1. [Coincidencia y Concentricidad](/04_Ensamblajes/01_Relaciones_Estandar/01_coincidencia_y_concentricidad.md)
+   2. Distancia y Angulo
+   3. Fijar y Flotar Componentes
+
+2. **Relaciones Mecánicas**
+   1. Engranajes y Pino Cremallera
+   2. Levas y Ranuras
+   3. Tornillos y Bisagras
+
+3. **Detección de Interferencias**
+   1. Detección de Interferencias y Colisiones
+   2. Estudio de Holguras
+   3. Estudios de Movimiento Básicos
 
 ---
 
