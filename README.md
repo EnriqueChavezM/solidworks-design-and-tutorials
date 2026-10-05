@@ -38,7 +38,7 @@ Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica, docum
 │   ├── 02_Chapa_Metálica/
 │   └── 03_Piezas_Soldadas/
 │       
-├── 04_Ensamblajes/              # Mates (relaciones de posición), ensamblajes guiados y subensamblajes
+├── 04_Ensamblajes/              # Mates (relaciones de posición), ensamblajes guiados y sub-ensamblajes
 │   ├── 01_Relaciones_Estándar/
 │   ├── 02_Relaciones_Mecánicas/
 │   └── 03_Detección_de_Interferencias/
