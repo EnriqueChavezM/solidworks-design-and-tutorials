@@ -70,7 +70,7 @@ Vamos a configurar un mecanismo compuesto por una guía lineal y un bloque desli
 ### Paso a Paso
 
 1. **Abrir el Ensamblaje Base:**
-   - Asegúrate de tener insertados y parcialmente posicionados (con relaciones de concentricidad previas) la guía fija *(Practica27-B)* y el eje cilíndrico *(Practica27-A)*.
+   - Asegúrate de tener insertados y parcialmente posicionados (con relaciones de concentricidad previas) la guía fija *(Practica27-A)* y el eje cilíndrico *(Practica27-B)*.
 
 2. **Acceder a la Herramienta Relación de Posición:**
    - Haz clic en la herramienta **Relación de posición (Mate)** en la barra superior.
