@@ -70,7 +70,7 @@ Vamos a configurar un mecanismo compuesto por una guía lineal y un bloque desli
 ### Paso a Paso
 
 1. **Abrir el Ensamblaje Base:**
-   - Asegúrate de tener insertados y parcialmente posicionados (con relaciones de coincidencia y concentricidad previas) la guía fija y el carro deslizante.
+   - Asegúrate de tener insertados y parcialmente posicionados (con relaciones de concentricidad previas) la guía fija *(Practica27-B)* y el eje cilíndrico *(Practica27-A)*.
 
 2. **Acceder a la Herramienta Relación de Posición:**
    - Haz clic en la herramienta **Relación de posición (Mate)** en la barra superior.
@@ -79,22 +79,24 @@ Vamos a configurar un mecanismo compuesto por una guía lineal y un bloque desli
    - Selecciona la **cara lateral frontal** del bloque deslizante y la **cara interna del tope** de la guía lineal.
    - En el panel de propiedades izquierdo, despliega la sección de **Relaciones de posición avanzadas (Advanced Mates)** y selecciona **Límite de distancia (Distance Limit)**.
    - Define los siguientes parámetros:
-     - **Distancia máxima ($d_{\text{máx}}$):** `100 mm`
+     - **Distancia máxima ($d_{\text{máx}}$):** `30 mm`
      - **Distancia mínima ($d_{\text{mín}}$):** `0 mm`
-     - **Distancia nominal (inicial):** `50 mm`
+     - **Distancia nominal (inicial):** `30 mm`
    - Haz clic en la **paloma verde (Aceptar)** para confirmar.
 
 4. **Verificar el Movimiento Cinemático:**
-   - Intenta desplazar el bloque deslizante con el ratón. Notarás que su movimiento de translación queda perfectamente restringido y confinado dentro del rango exacto de `0 mm` a `100 mm`, simulando un tope mecánico real.
+   - Intenta desplazar el bloque deslizante con el ratón. Notarás que su movimiento de translación queda perfectamente restringido y confinado dentro del rango exacto de `0 mm` a `30 mm`, simulando un tope mecánico real.
 
 ### Captura / Evidencia
 
 - **Archivos**
+  - [Eje Cilíndrico](/06_retos_y_proyectos/01_Practicas/Practica27-B.SLDPRT)
+  - [Placa Base](/06_retos_y_proyectos/01_Practicas/Practica27-B.SLDPRT)
+  - [Ensamble](/06_retos_y_proyectos/01_Practicas/Practica28_Ensamblaje.SLDASM)
   
 <!-- markdownlint-disable MD033 -->
 <img src="/06_retos_y_proyectos/01_Practicas/Practica28.png" width="500" alt="Captura de pantalla de la práctica">
 
----
 ---
 
 [Inicio](#02-distancia-y-ángulo-en-ensamblajes-)
