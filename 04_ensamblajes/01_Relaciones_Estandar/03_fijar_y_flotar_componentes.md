@@ -63,7 +63,7 @@ Aunque la opción **Fijar** fija una pieza en el espacio, la mejor práctica de 
 1. **Un solo componente fijo base:** Como regla general, únicamente el componente base (bastidor, carcasa o chasis) debe estar fijo o emparejado al origen del ensamblaje. Los demás componentes deben posicionarse mediante relaciones mecánicas o geométricas.
 2. **Flotar antes de alinear al origen:** Al insertar la primera pieza, haz clic en el botón de confirmación verde (✔) del PropertyManager en lugar de hacer clic en el área gráfica; esto alineará automáticamente el origen de la pieza con el origen del ensamblaje.
 3. **Revisa los prefijos del árbol:** Un ensamblaje completamente definido no debe tener componentes con el prefijo `(-)` ni piezas fijadas arbitrariamente que impidan la simulación kinemática esperada.
-4. 
+
 ---
 
 ## 2. Ejemplo Práctico: Anclando la Base y Gestionando la Movilidad
