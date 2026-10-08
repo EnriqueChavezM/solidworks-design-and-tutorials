@@ -60,8 +60,8 @@
 
 1. **Relaciones Estándar**
    1. [Coincidencia y Concentricidad](/04_Ensamblajes/01_Relaciones_Estandar/01_coincidencia_y_concentricidad.md)
-   2. Distancia y Angulo
-   3. Fijar y Flotar Componentes
+   2. [Distancia y Angulo](/04_Ensamblajes/01_Relaciones_Estandar/02_distancia_y_angulo.md)
+   3. [Fijar y Flotar Componentes](/04_Ensamblajes/01_Relaciones_Estandar/03_fijar_y_flotar_componentes.md)
 
 2. **Relaciones Mecánicas**
    1. Engranajes y Pino Cremallera
