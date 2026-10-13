@@ -21,7 +21,7 @@ La gestión del estado de movilidad de los componentes dentro de un entorno de e
   - [2. Componente Flotante (Floating Component)](#2-componente-flotante-floating-component)
   - [3. Fijar respecto al Origen Principal](#3-fijar-respecto-al-origen-principal)
   - [4. Buenas Prácticas y Criterios de Diseño](#4-buenas-prácticas-y-criterios-de-diseño)
-  - [2. Ejemplo Práctico: Anclando la Base y Gestionando la Movilidad](#2-ejemplo-práctico-anclando-la-base-y-gestionando-la-movilidad)
+  - [5. Ejemplo Práctico: Anclando la Base y Gestionando la Movilidad](#5-ejemplo-práctico-anclando-la-base-y-gestionando-la-movilidad)
     - [Paso a Paso](#paso-a-paso)
     - [Captura / Evidencia](#captura--evidencia)
 
@@ -66,7 +66,7 @@ Aunque la opción **Fijar** fija una pieza en el espacio, la mejor práctica de 
 
 ---
 
-## 2. Ejemplo Práctico: Anclando la Base y Gestionando la Movilidad
+## 5. Ejemplo Práctico: Anclando la Base y Gestionando la Movilidad
 
 Vamos a configurar un ensamblaje básico asegurando el componente estructural principal al origen y liberando el elemento acoplado para comprobar su movilidad.
 
