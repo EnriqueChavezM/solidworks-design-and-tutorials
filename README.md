@@ -17,6 +17,12 @@ Bienvenido/a a mi repositorio personal dedicado al aprendizaje, práctica, docum
 
 ---
 
+## 📓 Introducción
+
+El software CAD SOLIDWORKS® es una aplicación de automatización de diseño mecánico que les permite a los diseñadores croquizar ideas con rapidez, experimentar con operaciones y cotas, y producir modelos y dibujos detallados.
+
+---
+
 ## 🗂️ Estructura del Repositorio
 
 ***[Ver Tabla de Contenido](/Tabla_Contenido.md)***
